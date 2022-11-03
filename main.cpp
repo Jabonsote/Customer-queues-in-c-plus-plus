@@ -18,7 +18,7 @@ using namespace std;
 int main(){
 
     srand(time(NULL));
-
+    cout << "Hol amundo" << endl;
     
 
     system("color 0A");
